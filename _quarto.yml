@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "democratizing_data"
+  title: "Creating Engagements: Bringing the User Into Data Democratization"
   navbar:
     left:
       - href: index.qmd
