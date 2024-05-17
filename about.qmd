@@ -1,18 +1,22 @@
 ---
-title: "About the Presenter"
+title: "Lauren Chenarides"
+nav-title: "About the Presenter"
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 50%;">
-    ![Lauren](images/lauren.jpg)
-  </div>
-  <div style="flex: 50%;">
-    <p>
-      Lauren Chenarides is an assistant professor at the Department of Agricultural and Resource Economics at Colorado State University, specializing in food policy and retail dynamics. Her work focuses on improving food access and reducing disparities across the US food landscape.
-    </p>
-  </div>
-</div>
+<img src="images/lauren.jpg" width="250px"> 
 
+Lauren Chenarides is an assistant professor at the Department of Agricultural and Resource Economics at Colorado State University. Dr. Chenarides' research explores the intersection of food economics, consumer behavior, and public policy, focusing on the impact of retail competition and market dynamics on food access, dietary health, and local market structures. 
+
+She holds an undergraduate degree from the College of the Holy Cross, where she majored in Mathematics, and a Ph.D. in Agricultural, Environmental, and Regional Economics from Pennsylvania State University, where she graduated in 2017. Dr. Chenarides teaches courses on food and agricultural marketing, data-driven decision making, and agricultural entrepreneurship.
+
+Dr. Chenarides is an associate editor for the American Journal of Agricultural Economics and a Board Member of the Council on Food, Agricultural, and Resource Economics, translating academic research into educational programming for policymakers and stakeholders in the federal administration.
+
+## Links
+- [Link to Google Scholar](https://scholar.google.com/citations?user=07RAgEQAAAAJ&hl=en)
+
+- [Connect on LinkedIn](https://www.linkedin.com/in/laurenchenarides/) 
+
+- [Department of Agricultural and Resource Economics at CSU](https://agsci.colostate.edu/old-dare/faculty/dr-lauren-chenarides/)
 
 ##
 

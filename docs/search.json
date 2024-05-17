@@ -7,32 +7,11 @@
     "text": "This workshop is particularly timely as the Harvard Data Science Review has recently published a special issue, “Democratizing Data: Discovering Data Use for Research and Policy,” presenting cutting-edge ideas on using robust AI tools to support evidence building in public policy and science.\n\n\nLink to Special Issue"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the Presenter",
-    "section": "",
-    "text": "![Lauren](images/lauren.jpg)\n\n\n&lt;p&gt;\n  Lauren Chenarides is an assistant professor at the Department of Agricultural and Resource Economics at Colorado State University, specializing in food policy and retail dynamics. Her work focuses on improving food access and reducing disparities across the US food landscape.\n&lt;/p&gt;"
-  },
-  {
     "objectID": "index.html#special-issue",
     "href": "index.html#special-issue",
     "title": "Discovering Data Use and Value for Research and Policy",
     "section": "",
     "text": "This workshop is particularly timely as the Harvard Data Science Review has recently published a special issue, “Democratizing Data: Discovering Data Use for Research and Policy,” presenting cutting-edge ideas on using robust AI tools to support evidence building in public policy and science.\n\n\nLink to Special Issue"
-  },
-  {
-    "objectID": "index.html#webinar",
-    "href": "index.html#webinar",
-    "title": "Creating Engagements:  Bringing the User Into Data Democratization",
-    "section": "",
-    "text": "An accompanying Webinar (May 21-22, 2024) will feature authors of the papers, providing practical insights and a vision for how bottom-up collaborations and communities of practice can help shape the future of data democratization."
-  },
-  {
-    "objectID": "index.html#presentation",
-    "href": "index.html#presentation",
-    "title": "Creating Engagements:  Bringing the User Into Data Democratization",
-    "section": "",
-    "text": "Presentation Slides: \nLink to Slides"
   },
   {
     "objectID": "index.html#webinar-details",
@@ -49,10 +28,31 @@
     "text": "Creating Engagements: Bringing the User Into Data Democratization\n\n\nLink to Slides"
   },
   {
+    "objectID": "presentations/creating-engagements.html",
+    "href": "presentations/creating-engagements.html",
+    "title": "Creating Engagements",
+    "section": "",
+    "text": "Introduction\n\nBriefly introduce yourself and the topic of your article\nHighlight the importance of engaging users in data democratization efforts to build collaborative communities and solve pressing problems\n\n\n\nTheory of Change Framework\n\nExplain the Theory of Change framework and how it traces the path from strategic interventions to improved user engagement\nDiscuss the stages: Strategies, Targets, and Outcomes\nNote the importance of addressing moderators like psychological barriers to technology adoption\n\n\n\nKey Strategies to Build User Engagement\n\nReward systems and referral programs to incentivize usage\nSocial engagement features like social media integration and crowdsourcing\nEffective user onboarding to communicate value\nWorkshops and focus groups to gather feedback\nTie these strategies to promoting the search, discovery, and usage of data to capture value and inform evidence-building\n\n\n\nConsiderations and Future Agenda\n\nNote challenges like identifying the full scope of federal data users\nDiscuss the need for sustainable funding and resources\nEmphasize the importance of engaging diverse user groups\nLay out a future vision of bottom-up collaboration shaping a new data ecosystem\n\n\n\nConcluding Thoughts\n\nReiterate the potential of data democratization when paired with user engagement\nExpress optimism for building collaborative communities to address societal challenges"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Lauren Chenarides",
+    "section": "",
+    "text": "Lauren Chenarides is an assistant professor at the Department of Agricultural and Resource Economics at Colorado State University. Dr. Chenarides’ research explores the intersection of food economics, consumer behavior, and public policy, focusing on the impact of retail competition and market dynamics on food access, dietary health, and local market structures.\nShe holds an undergraduate degree from the College of the Holy Cross, where she majored in Mathematics, and a Ph.D. in Agricultural, Environmental, and Regional Economics from Pennsylvania State University, where she graduated in 2017. Dr. Chenarides teaches courses on food and agricultural marketing, data-driven decision making, and agricultural entrepreneurship.\nDr. Chenarides is an associate editor for the American Journal of Agricultural Economics and a Board Member of the Council on Food, Agricultural, and Resource Economics, translating academic research into educational programming for policymakers and stakeholders in the federal administration."
+  },
+  {
     "objectID": "about.html#section",
     "href": "about.html#section",
-    "title": "About the Presenter",
+    "title": "Lauren Chenarides",
     "section": "",
     "text": "This site was built using Quarto in R.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#links",
+    "href": "about.html#links",
+    "title": "Lauren Chenarides",
+    "section": "Links",
+    "text": "Links\n\nLink to Google Scholar\nConnect on LinkedIn\nDepartment of Agricultural and Resource Economics at CSU"
   }
 ]
