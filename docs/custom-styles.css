@@ -7,6 +7,18 @@ h1 {
     text-align: center; /* centering the text */
 }
 
+.reveal h1 {
+    font-size: 24px; /* Adjust size as needed */
+}
+
+.reveal h2 {
+    font-size: 20px; /* Adjust size as needed */
+}
+
+.reveal h3 {
+    font-size: 18px; /* Adjust size as needed */
+}
+
 /* Style for paragraphs */
 p {
     font-size: 16px; /* setting the font size */
@@ -32,14 +44,3 @@ a:hover {
     text-decoration: underline; /* adding underline on hover for links */
 }
 
-.reveal h1 {
-    font-size: 24px; /* Adjust size as needed */
-}
-
-.reveal h2 {
-    font-size: 20px; /* Adjust size as needed */
-}
-
-.reveal h3 {
-    font-size: 18px; /* Adjust size as needed */
-}

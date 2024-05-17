@@ -3,6 +3,7 @@ title: "Creating Engagements: <br> Bringing the User into *Data Democratization*
 format: 
   revealjs:
     theme: simple # simple; solarized; sky; serif; white
+    css: custom-styles.css
 ---
 
 # Introduction
@@ -43,19 +44,27 @@ As part of my work, I rely on collaborations with the USDA. Several years ago, I
 
 -   Uses a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
 
-::: notes
-I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. I use a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
+- Discusses strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups to boost user engagement and overcome psychological barriers to technology adoption.
+
+::: {.notes}
+I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. I use a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools. I discuss strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups as ways to boost user engagement and overcome psychological barriers to technology adoption.
 :::
 
 # Contribution to the Democratizing Data Vision
 
-## Theory of Change Framework
+## 
+
+<img src="images/ToC-graphic-1.png" alt="Theory of Change Framework" style="width:160px;">
+
+
+::: {.notes}
 
 -   Explain the Theory of Change framework and how it traces the path from strategic interventions to improved user engagement
 
 -   Discuss the stages: Strategies, Targets, and Outcomes
 
 -   Note the importance of addressing moderators like psychological barriers to technology adoption
+:::
 
 # Key Strategies to Build User Engagement
 
