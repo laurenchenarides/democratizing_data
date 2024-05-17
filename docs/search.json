@@ -2,15 +2,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Creating Engagements: Bringing the User Into Data Democratization",
+    "title": "Discovering Data Use and Value for Research and Policy",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nPresentation Slides: \nLink to Slides"
+    "text": "This workshop is particularly timely as the Harvard Data Science Review has recently published a special issue, “Democratizing Data: Discovering Data Use for Research and Policy,” presenting cutting-edge ideas on using robust AI tools to support evidence building in public policy and science.\n\n\nLink to Special Issue"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site was built using Quarto in R.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#special-issue",
+    "href": "index.html#special-issue",
+    "title": "Discovering Data Use and Value for Research and Policy",
+    "section": "",
+    "text": "This workshop is particularly timely as the Harvard Data Science Review has recently published a special issue, “Democratizing Data: Discovering Data Use for Research and Policy,” presenting cutting-edge ideas on using robust AI tools to support evidence building in public policy and science.\n\n\nLink to Special Issue"
+  },
+  {
+    "objectID": "index.html#webinar",
+    "href": "index.html#webinar",
+    "title": "Creating Engagements:  Bringing the User Into Data Democratization",
+    "section": "",
+    "text": "An accompanying Webinar (May 21-22, 2024) will feature authors of the papers, providing practical insights and a vision for how bottom-up collaborations and communities of practice can help shape the future of data democratization."
+  },
+  {
+    "objectID": "index.html#presentation",
+    "href": "index.html#presentation",
+    "title": "Creating Engagements:  Bringing the User Into Data Democratization",
+    "section": "",
+    "text": "Presentation Slides: \nLink to Slides"
+  },
+  {
+    "objectID": "index.html#webinar-details",
+    "href": "index.html#webinar-details",
+    "title": "Discovering Data Use and Value for Research and Policy",
+    "section": "Webinar Details",
+    "text": "Webinar Details\nAn accompanying Webinar (May 21-22, 2024) will feature authors of the papers, providing practical insights and a vision for how bottom-up collaborations and communities of practice can help shape the future of data democratization.\n\n\nLink to Webinar Details"
+  },
+  {
+    "objectID": "index.html#creating-engagements-bringing-the-user-into-data-democratization",
+    "href": "index.html#creating-engagements-bringing-the-user-into-data-democratization",
+    "title": "Discovering Data Use and Value for Research and Policy",
+    "section": "Creating Engagements: Bringing the User Into Data Democratization",
+    "text": "Creating Engagements: Bringing the User Into Data Democratization\n\n\nLink to Slides"
   }
 ]

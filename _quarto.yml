@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Use and Value for Research and Policy"
+  title: "Democratizing Data"
   navbar:
     left:
       - href: index.qmd
