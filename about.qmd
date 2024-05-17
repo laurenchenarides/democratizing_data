@@ -1,6 +1,20 @@
 ---
-title: "About"
+title: "About the Presenter"
 ---
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 50%;">
+    ![Lauren](images/lauren.jpg)
+  </div>
+  <div style="flex: 50%;">
+    <p>
+      Lauren Chenarides is an assistant professor at the Department of Agricultural and Resource Economics at Colorado State University, specializing in food policy and retail dynamics. Her work focuses on improving food access and reducing disparities across the US food landscape.
+    </p>
+  </div>
+</div>
+
+
+##
 
 This site was built using Quarto in R.
 
