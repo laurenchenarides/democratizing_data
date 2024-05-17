@@ -50,7 +50,6 @@ As part of my work, I rely on collaborations with the USDA. Several years ago, I
 I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. I use a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools. I discuss strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups as ways to boost user engagement and overcome psychological barriers to technology adoption.
 :::
 
-# Contribution to the Democratizing Data Vision
 
 ## 
 
@@ -66,7 +65,7 @@ I was invited to contribute an article to this special issue titled "Creating En
 -   Note the importance of addressing moderators like psychological barriers to technology adoption
 :::
 
-# Key Strategies to Build User Engagement
+## Key Strategies to Build User Engagement
 
 -   Reward systems and referral programs to incentivize usage
 
@@ -78,7 +77,7 @@ I was invited to contribute an article to this special issue titled "Creating En
 
 -   Tie these strategies to promoting the search, discovery, and usage of data to capture value and inform evidence-building
 
-# Considerations and Future Agenda
+## Considerations and Future Agenda
 
 -   Note challenges like identifying the full scope of federal data users
 
@@ -88,24 +87,27 @@ I was invited to contribute an article to this special issue titled "Creating En
 
 -   Lay out a future vision of bottom-up collaboration shaping a new data ecosystem
 
-## Current Project: DIFA
+-   Current project: Data Integration in Food and Agriculture (DIFA)
+
+::: notes
+My current project is called DIFA:
 
 -   Developing a platform to improve data infrastructure for research discovery
 
--   Features include data search and discovery, harmonization of data dictionaries and documentation, knowledge graphs to visualize potential linkages, and explainable recommendations for researchers.
-
-::: notes
-My current project is called DIFA: a platform designed to improve data infrastructure for research discovery.
+-   Features include data search and discovery, harmonization of data dictionaries and documentation, knknowledge graphs to visualize potential linkages between datasets, and explainable recommendations for researchers, such as suggesting user-specific datasets, identifying referees by dataset expertise and suggesting journals for authors.
 
 DIFA's mission is to enhance the current ecosystem of human capital and technology that promotes complementary and efficient use of data to strengthen current evidence on major food and agricultural policy issues.
 
-DIFA aims to enhance the current ecosystem of human capital and technology to promote efficient use of data and strengthen evidence on food and agricultural policy issues.
-
-This platform will include features such as data search and discovery, harmonization of data dictionaries and documentation, knowledge graphs to visualize potential linkages between datasets, and recommendations for researchers, such as identifying referees by dataset expertise and suggesting journals for authors.
 :::
 
-# Concluding Thoughts
+## Concluding Remarks
 
 -   Reiterate the potential of data democratization when paired with user engagement
 
 -   Express optimism for building collaborative communities to address societal challenges
+
+# Thank You! 
+
+<Lauren.Chenarides@colostate.edu>
+
+<https://laurenchenarides.github.io/democratizing_data/>

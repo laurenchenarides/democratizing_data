@@ -28,3 +28,5 @@ Dr. Chenarides is an associate editor for the American Journal of Agricultural E
 This site was built using Quarto in R.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+Contact me directly at <Lauren.Chenarides@colostate.edu>.
