@@ -1,0 +1,45 @@
+/* Basic CSS for a web page */
+
+/* Style for all headers (h1) */
+h1 {
+    font-size: 24px; /* setting the font size */
+    color: navy; /* setting the color */
+    text-align: center; /* centering the text */
+}
+
+/* Style for paragraphs */
+p {
+    font-size: 16px; /* setting the font size */
+    color: darkgray; /* setting the color */
+    line-height: 1.6; /* setting the line height for readability */
+    margin-bottom: 20px; /* adding space below paragraphs */
+}
+
+/* Style for images */
+img {
+    width: 100%; /* setting the width to 100% of its container */
+    height: auto; /* maintaining the aspect ratio */
+    border-radius: 8px; /* adding rounded corners to the image */
+}
+
+/* Style for links */
+a {
+    color: blue; /* color for links */
+    text-decoration: none; /* removing underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* adding underline on hover for links */
+}
+
+.reveal h1 {
+    font-size: 24px; /* Adjust size as needed */
+}
+
+.reveal h2 {
+    font-size: 20px; /* Adjust size as needed */
+}
+
+.reveal h3 {
+    font-size: 18px; /* Adjust size as needed */
+}

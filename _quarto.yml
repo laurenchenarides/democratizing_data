@@ -14,7 +14,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: custom-styles.css
     toc: true
     favicon: favicon.ico  # Adding a favicon
 
