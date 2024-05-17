@@ -1,15 +1,71 @@
 ---
-title: "Creating Engagements"
+title: "Creating Engagements: <br> Bringing the User into *Data Democratization*"
 format: 
   revealjs:
-    theme: night
+    #incremental: true
+    theme: simple # simple; solarized; sky; serif; white
 ---
 
 # Introduction
 
-- Briefly introduce yourself and the topic of your article
+## About Me {.incremental}
 
-- Highlight the importance of engaging users in data democratization efforts to build collaborative communities and solve pressing problems
+- **Degree.** Ph.D. in Agricultural Economics, B.A. in Mathematics
+
+- **Area.** Empirical industrial organization, food policy (food access and food security), and food supply chains
+
+- **My burning question.** How can policies and market-based mechanisms be leveraged to address barriers to food access?
+
+- **Research edge.** I like to create organized data systems to answer food policy questions and tell compelling stories. 
+
+::: {.notes}
+Hello everyone, and welcome to my presentation. My name is Lauren Chenarides, and I am an Assistant Professor of Agricultural and Resource Economics at Colorado State University. My research focuses on using large datasets to answer policy-oriented questions applied to food retail.
+:::
+
+## Involvement in the Democratizing Data Movement
+
+- **Heavy data user.** I observe behaviors of economic agents (firm or consumer) using high dimensional data.
+
+- **Opportunity.** Improve infrastructure for data search and discovery, tracking data usage statistics.
+
+- **Big picture.** Break down barriers to accessing to data; increase citizen participation in policy making.
+
+- **Buzz words:** Data-driven; evidence-informed; [open government](https://data.gov/open-gov/)
+
+::: {.notes}
+As part of my work, I rely on collaborations with the USDA. Several years ago, I became involved with Dr. Lane and her team as an early adopter of NORC and then the ADRF data enclaves. 
+:::
+
+## Current Project: DIFA 
+
+- Developing a platform to improve data infrastructure for research discovery
+
+- Features include data search and discovery, harmonization of data dictionaries and documentation, knowledge graphs to visualize potential linkages, and explainable recommendations for researchers.
+
+::: {,notes}
+
+My current project within DIFA is the development of a platform designed to improve data infrastructure for research discovery. 
+
+DIFA's mission is to enhance the current ecosystem of human capital and technology that promotes complementary and efficient use of data to strengthen current evidence on major food and agricultural policy issues.
+
+DIFA aims to enhance the current ecosystem of human capital and technology to promote efficient use of data and strengthen evidence on food and agricultural policy issues.
+
+This platform will include features such as data search and discovery, harmonization of data dictionaries and documentation, knowledge graphs to visualize potential linkages between datasets, and recommendations for researchers, such as identifying referees by dataset expertise and suggesting journals for authors.
+:::
+
+## Contribution to the Special Issue 
+
+- Invited to contribute an article titled "Creating Engagements: Bringing the User Into Data Democratization"
+  
+- Article focuses on learning from models in other fields to enhance user engagement, a necessary precondition to building a community of federal data users
+
+Uses a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools
+
+::: {.notes}
+I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. I use a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
+:::
+
+
 
 # Theory of Change Framework
 

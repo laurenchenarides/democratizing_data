@@ -8,13 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: About
+        href: about.qmd  # Ensure that each menu item has both 'text' and 'href' keys for clarity
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    favicon: favicon.ico  # Adding a favicon
 
-
-
+# Additional global options
+editor_options:
+  chunk_output_type: console
