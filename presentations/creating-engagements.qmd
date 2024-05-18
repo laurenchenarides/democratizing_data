@@ -12,7 +12,7 @@ format:
 
 -   **Degree.** Ph.D. in Agricultural Economics, B.A. in Mathematics
 
--   **Area.** Empirical industrial organization, food policy (food access and food security), and food supply chains
+-   **Area.** Empirical industrial organization, food marketing and policy, and food supply chains
 
 -   **My burning question.** How can policies and market-based mechanisms be leveraged to address barriers to food access?
 
@@ -42,12 +42,20 @@ As part of my work, I rely on collaborations with the USDA. Several years ago, I
 
 -   Article focuses on learning from models in other fields to enhance **user engagement**, a necessary precondition to building a community of federal data users.
 
--   Uses a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
+-   Uses a *Theory of Change* framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
+
+-  Identifies psychological barriers prevent people from adopting new tools.
 
 - Discusses strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups to boost user engagement and overcome psychological barriers to technology adoption.
 
 ::: {.notes}
-I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. I use a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools. I discuss strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups as ways to boost user engagement and overcome psychological barriers to technology adoption.
+I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". 
+
+In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. 
+
+I use a Theory of Change framework to trace the path from strategic interventions to improved user engagement in data democratization tools. 
+
+I discuss strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups as ways to boost user engagement and overcome psychological barriers to technology adoption.
 :::
 
 
@@ -58,14 +66,19 @@ I was invited to contribute an article to this special issue titled "Creating En
 
 ::: {.notes}
 
--   Explain the Theory of Change framework and how it traces the path from strategic interventions to improved user engagement
+In my article, I apply the Theory of Change framework to understand how we can effectively engage users in data democratization efforts. The Theory of Change is a powerful tool that helps us map out the path from our initial strategies to the desired long-term outcomes.
 
--   Discuss the stages: Strategies, Targets, and Outcomes
+The framework consists of three main stages: Strategies, Targets, and Outcomes. Strategies are the interventions or activities we implement to achieve our goals. In the context of data democratization, these could include developing user-friendly platforms, providing training and education programs, or offering incentives for user engagement.
 
--   Note the importance of addressing moderators like psychological barriers to technology adoption
+These strategies are designed to lead to specific Targets, which are the short-term results we aim to achieve. For example, our targets might include increasing user engagement with open data tools, improving users' knowledge and confidence in interpreting data, or fostering a collaborative environment for data sharing.
+
+If we successfully hit these targets, they should contribute to our long-term Outcomes. These are the ultimate goals of our data democratization efforts, such as making federal data more accessible, empowering users to leverage data effectively, promoting an open data ethos, and enabling evidence-based policymaking.
+
+However, it's important to recognize that various factors can influence the effectiveness of our strategies. These Moderators can include things like users' technological literacy, access to resources, cultural contexts, and psychological barriers to adopting new technologies. By understanding these moderators, we can tailor our approaches to better address the needs of different user groups and maximize the impact of our data democratization initiatives.
+The Theory of Change provides a clear, logical framework for designing and evaluating our efforts to engage users in data democratization. By thinking through each stage of the process and considering potential moderators, we can develop more targeted, effective strategies to build a thriving community of federal data users.
 :::
 
-## Key Strategies to Build User Engagement
+## Strategies to Build User Engagement
 
 -   Reward systems and referral programs to incentivize usage
 
@@ -75,9 +88,51 @@ I was invited to contribute an article to this special issue titled "Creating En
 
 -   Workshops and focus groups to gather feedback
 
--   Tie these strategies to promoting the search, discovery, and usage of data to capture value and inform evidence-building
+::: {.notes}
+In my article, I discuss several strategies that federal agencies can employ to enhance user engagement with data democratization tools. These strategies are grounded in research from various fields, including marketing, economics, psychology, and information systems. Let's take a closer look at two practical examples that agencies can implement.
+:::
 
-## Considerations and Future Agenda
+## Example 1: Gamification and Rewards Systems
+
+- **Gamification:** Virtual currencies, progress bars, badges, and ranking systems
+
+- Incentivizes active participation and contribution (Bitrián et al., 2021; Charry et al., 2023)
+
+- Encourages continuous learning and skills development
+
+- Rewards quality contributions to data access and usability
+
+::: {.notes}
+The first example is the use of gamification and reward systems. Gamification involves incorporating game-like elements into non-game contexts, such as data platforms. This can include virtual currencies, progress bars, badges, and ranking systems. Studies by Bitrián et al. (2021) and Charry et al. (2023) have shown that gamification can effectively incentivize active participation and contribution to a platform.
+
+In the context of data democratization, agencies can use gamification to encourage continuous learning and skills development among users. By rewarding quality contributions that improve data access and usability, agencies can drive sustained engagement and build a more knowledgeable user community.
+:::
+
+## Example 2: User Onboarding and Workshops
+
+- **User onboarding:** Familiarizes users with the platform and its features (Wernerson & Carlsson, 2019)
+
+- **Workshops:** Provide training on data resources, applications, and necessary skills (USDA, 2023)
+
+- Create forums for soliciting user input and identifying emerging needs
+
+- Complement onboarding materials and strengthen understanding of data tools
+
+::: {.notes}
+The second example involves user onboarding and workshops. As discussed by Wernerson and Carlsson (2019), effective user onboarding is crucial for familiarizing users with a platform and its features. It helps users understand the value and functionality of the tools available to them.
+Workshops, on the other hand, provide a more in-depth learning experience. They offer training on data resources, their applications, and the skills needed to utilize complex data effectively. The USDA (2023) recently held a workshop to introduce users to new features of their data platform, showcasing how workshops can complement onboarding materials and strengthen users' understanding of data tools.
+
+Moreover, workshops create valuable forums for soliciting user input and identifying emerging needs. By engaging directly with the user community, agencies can gather insights to continuously improve their data democratization efforts and better serve their users' evolving requirements.
+:::
+
+##
+
+```{r, echo=FALSE, results='asis'}
+cat('<iframe src="https://usda-data-usage-workshop.netlify.app/" width="100%" height="600px"></iframe>')
+```
+
+
+## Considerations
 
 -   Note challenges like identifying the full scope of federal data users
 
@@ -85,7 +140,32 @@ I was invited to contribute an article to this special issue titled "Creating En
 
 -   Emphasize the importance of engaging diverse user groups
 
+
+## "The only way to get people to adopt a new idea is to make them want it. And the only way to make them want it is to show them how it will make their lives better." <br> - Nir Eyal
+
+- New data tools can be disruptors in data usage tracking and access
+
+- Psychological barriers can prevent people from adopting new tools
+
+- Engaging users is crucial to demonstrating the value of these tools and encouraging adoption
+
+::: {.notes}
+As Nir Eyal, the author of "Hooked: How to Build Habit-Forming Products," states, "The only way to get people to adopt a new idea is to make them want it. And the only way to make them want it is to show them how it will make their lives better."
+
+This quote is particularly relevant to our discussion of data democratization tools. While these new platforms have the potential to disrupt traditional methods of data usage tracking and access, we must recognize that psychological barriers can prevent people from adopting them.
+
+To overcome these barriers, it's essential that we engage users and demonstrate the value of these new tools. By showing users how these platforms can make their lives better—whether by simplifying data access, enabling new insights, or fostering collaboration—we can create a desire to adopt and use these tools regularly.
+
+This is where the user engagement strategies discussed in my article come into play. By implementing techniques such as gamification, reward systems, user onboarding, and workshops, we can effectively communicate the benefits of these new data tools and encourage users to embrace them. By making the adoption process engaging and rewarding, we can help users overcome their initial hesitation and experience the full potential of these innovative platforms.
+:::
+
+## Future Agenda and Concluding Remarks
+
 -   Lay out a future vision of bottom-up collaboration shaping a new data ecosystem
+
+-   Reiterate the potential of data democratization when paired with user engagement
+
+-   Express optimism for building collaborative communities to address societal challenges
 
 -   Current project: Data Integration in Food and Agriculture (DIFA)
 
@@ -99,12 +179,6 @@ My current project is called DIFA:
 DIFA's mission is to enhance the current ecosystem of human capital and technology that promotes complementary and efficient use of data to strengthen current evidence on major food and agricultural policy issues.
 
 :::
-
-## Concluding Remarks
-
--   Reiterate the potential of data democratization when paired with user engagement
-
--   Express optimism for building collaborative communities to address societal challenges
 
 # Thank You! 
 
