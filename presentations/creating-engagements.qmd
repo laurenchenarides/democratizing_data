@@ -119,10 +119,13 @@ In the context of data democratization, agencies can use gamification to encoura
 - Complement onboarding materials and strengthen understanding of data tools
 
 ::: {.notes}
-The second example involves user onboarding and workshops. As discussed by Wernerson and Carlsson (2019), effective user onboarding is crucial for familiarizing users with a platform and its features. It helps users understand the value and functionality of the tools available to them.
+The second example involves user onboarding and workshops. 
+
+Effective user onboarding is crucial for familiarizing users with a platform and its features. It helps users understand the value and functionality of the tools available to them.
+
 Workshops, on the other hand, provide a more in-depth learning experience. They offer training on data resources, their applications, and the skills needed to utilize complex data effectively. The USDA (2023) recently held a workshop to introduce users to new features of their data platform, showcasing how workshops can complement onboarding materials and strengthen users' understanding of data tools.
 
-Moreover, workshops create valuable forums for soliciting user input and identifying emerging needs. By engaging directly with the user community, agencies can gather insights to continuously improve their data democratization efforts and better serve their users' evolving requirements.
+Workshops create valuable forums for soliciting user input and identifying emerging needs. By engaging directly with the user community, agencies can gather insights to continuously improve their data democratization efforts and better serve their users' evolving requirements.
 :::
 
 ##
@@ -130,15 +133,15 @@ Moreover, workshops create valuable forums for soliciting user input and identif
 ```{r, echo=FALSE, results='asis'}
 cat('<iframe src="https://usda-data-usage-workshop.netlify.app/" width="100%" height="600px"></iframe>')
 ```
-
+Upcoming workshop on "USDA Data Usage Statistics" (June 2024)
 
 ## Considerations
 
--   Note challenges like identifying the full scope of federal data users
+-   Challenges remain, such as identifying the full scope of federal data users
 
--   Discuss the need for sustainable funding and resources
+-   Need for sustainable funding and resources
 
--   Emphasize the importance of engaging diverse user groups
+-   Opportunities to engage diverse and under-represented user groups
 
 
 ## "The only way to get people to adopt a new idea is to make them want it. And the only way to make them want it is to show them how it will make their lives better." <br> - Nir Eyal (author of *Hooked: How to Build Habit-Forming Products*)
