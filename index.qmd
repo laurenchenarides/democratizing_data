@@ -22,6 +22,6 @@ cat('<iframe src="https://datascience.harvard.edu/calendar_event/democratizing-d
 ## Creating Engagements: Bringing the User Into Data Democratization
 
 ```{r, echo=FALSE, results='asis'}
-cat('<iframe src="/presentations/creating-engagements.html" width="100%" height="600px"></iframe>')
+cat('<iframe src="presentations/creating-engagements.html" width="100%" height="600px"></iframe>')
 ```
-<a  href="/presentations/creating-engagements.qmd" target="_blank">Link to Slides</a> <br> <br>
+<a  href="presentations/creating-engagements.qmd" target="_blank">Link to Slides</a> <br> <br>

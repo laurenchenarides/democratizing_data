@@ -2,13 +2,13 @@
 title: "Creating Engagements: <br> Bringing the User into *Data Democratization*"
 format: 
   revealjs:
-    theme: simple # simple; solarized; sky; serif; white
-    css: custom-styles.css
+    theme: black # simple; solarized; sky; serif; white; night; moon
+    css: pres-styles.css
 ---
 
 # Introduction
 
-## About Me {.incremental}
+## About Me 
 
 -   **Degree.** Ph.D. in Agricultural Economics, B.A. in Mathematics
 
@@ -36,20 +36,20 @@ Hello everyone, and welcome to my presentation. My name is Lauren Chenarides, an
 As part of my work, I rely on collaborations with the USDA. Several years ago, I became involved with Dr. Lane and her team as an early adopter of NORC and then the ADRF data enclaves.
 :::
 
-# Contribution to the Special Issue: <br> "Creating Engagements: Bringing the User Into Data Democratization"
+# Contribution to the Special Issue: <br> ["Creating Engagements: Bringing the User Into Data Democratization"](https://hdsr.mitpress.mit.edu/pub/lakmexrl/release/2?readingCollection=a6db7dff)
 
 ## Main Idea
 
--   Article focuses on learning from models in other fields to enhance **user engagement**, a necessary precondition to building a community of federal data users.
+Article focuses on learning from models in other fields to enhance **user engagement**, a necessary precondition to building a community of federal data users.
 
--   Uses a *Theory of Change* framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
+1.   Uses a **Theory of Change** framework to trace the path from strategic interventions to improved user engagement in data democratization tools.
 
--  Identifies psychological barriers prevent people from adopting new tools.
+2.  Identifies **psychological barriers** prevent people from adopting new tools.
 
-- Discusses strategies such as reward systems, referral programs, social engagement features, user onboarding, and focus groups to boost user engagement and overcome psychological barriers to technology adoption.
+3. Discusses **strategies** to boost user engagement and overcome psychological barriers to technology adoption.
 
 ::: {.notes}
-I was invited to contribute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". 
+I was invited to contribsute an article to this special issue titled "Creating Engagements: Bringing the User Into Data Democratization". 
 
 In this article, I focus on learning from models in other fields to enhance user engagement, which I believe is a necessary precondition to building a community of federal data users. 
 
@@ -61,7 +61,7 @@ I discuss strategies such as reward systems, referral programs, social engagemen
 
 ## 
 
-<img src="images/ToC-graphic-1.png" alt="Theory of Change Framework" style="width:160px;">
+<img src="ToC-graphic-1.png" alt="Theory of Change Framework" style="width:160px;">
 
 
 ::: {.notes}
@@ -141,21 +141,18 @@ cat('<iframe src="https://usda-data-usage-workshop.netlify.app/" width="100%" he
 -   Emphasize the importance of engaging diverse user groups
 
 
-## "The only way to get people to adopt a new idea is to make them want it. And the only way to make them want it is to show them how it will make their lives better." <br> - Nir Eyal
-
-- New data tools can be disruptors in data usage tracking and access
-
-- Psychological barriers can prevent people from adopting new tools
-
-- Engaging users is crucial to demonstrating the value of these tools and encouraging adoption
+## "The only way to get people to adopt a new idea is to make them want it. And the only way to make them want it is to show them how it will make their lives better." <br> - Nir Eyal (author of *Hooked: How to Build Habit-Forming Products*)
 
 ::: {.notes}
 As Nir Eyal, the author of "Hooked: How to Build Habit-Forming Products," states, "The only way to get people to adopt a new idea is to make them want it. And the only way to make them want it is to show them how it will make their lives better."
 
+**New data tools can be disruptors in data usage tracking and access**
 This quote is particularly relevant to our discussion of data democratization tools. While these new platforms have the potential to disrupt traditional methods of data usage tracking and access, we must recognize that psychological barriers can prevent people from adopting them.
 
+**Psychological barriers can prevent people from adopting new tools**
 To overcome these barriers, it's essential that we engage users and demonstrate the value of these new tools. By showing users how these platforms can make their lives better—whether by simplifying data access, enabling new insights, or fostering collaboration—we can create a desire to adopt and use these tools regularly.
 
+**Engaging users is crucial to demonstrating the value of these tools and encouraging adoption**
 This is where the user engagement strategies discussed in my article come into play. By implementing techniques such as gamification, reward systems, user onboarding, and workshops, we can effectively communicate the benefits of these new data tools and encourage users to embrace them. By making the adoption process engaging and rewarding, we can help users overcome their initial hesitation and experience the full potential of these innovative platforms.
 :::
 

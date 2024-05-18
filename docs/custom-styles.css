@@ -7,21 +7,9 @@ h1 {
   text-align: center; /* centering the text */
 }
 
-.reveal .slides section h1 {
-  font-size: 24px; /* Adjust size as needed */
-}
-
-.reveal .slides section h2 {
-  font-size: 20px; /* Adjust size as needed */
-}
-
-.reveal .slides section h3 {
-  font-size: 18px; /* Adjust size as needed */
-}
-
 /* Style for paragraphs */
 p {
-  font-size: 16px; /* setting the font size */
+  font-size: 18px; /* setting the font size */
   color: darkgray; /* setting the color */
   line-height: 1.6; /* setting the line height for readability */
   margin-bottom: 20px; /* adding space below paragraphs */
@@ -43,3 +31,6 @@ a {
 a:hover {
   text-decoration: underline; /* adding underline on hover for links */
 }
+
+
+
